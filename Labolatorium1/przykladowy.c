@@ -6,7 +6,7 @@ int a = 25;
 double b = 4;
 float c = 2.5;
 int wynik = (a*b) - (b/c)
-print("%d\n",wynik);
+print("%d\n" ,wynik);
 }
 
 //Zad2//
@@ -15,7 +15,7 @@ int a = 25;
 double b = 4;
 float c = 2.5;
 int wynik = (a*b) - (b%c)
-print("%d\n",wynik);
+print("%d\n" ,wynik);
 }
 
 //Zad3//
@@ -24,7 +24,7 @@ int a = 25;
 double b = 4;
 float c = 2.5;
 int wynik = (a*b) - (c*a) - (b*c)
-print("%d\n",wynik);
+print("%d\n" ,wynik);
 }
 
 //Zad4//
