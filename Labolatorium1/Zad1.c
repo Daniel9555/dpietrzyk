@@ -2,28 +2,55 @@
 
 //Zad1//
 int main() {
-int a = 25;
-double b = 4;
-float c = 2.5;
-int wynik = (a*b) - (b/c)
+int a;
+scanf("%f",&a);
+printf("%f\n",a);
+ 
+double b;
+scanf("%d",&b);
+printf("%d\n",b);
+
+double c;
+scanf("%d",&c);
+printf("%d\n",c);
+  
+double wynik = (a*b) - (b/c)
 print("%d\n" ,wynik);
 }
 
 //Zad2//
 int main() {
-int a = 25;
-double b = 4;
-float c = 2.5;
-int wynik = (a*b) - (b%c)
+int a;
+scanf("%f",&a);
+printf("%f\n",a);
+ 
+double b;
+scanf("%d",&b);
+printf("%d\n",b);
+
+double c;
+scanf("%d",&c);
+printf("%d\n",c);
+  
+double wynik = (a*b) - (b%c)
 print("%d\n" ,wynik);
 }
 
 //Zad3//
 int main() {
-int a = 25;
-double b = 4;
-float c = 2.5;
-int wynik = (a*b) - (c*a) - (b*c)
+int a;
+scanf("%f",&a);
+printf("%f\n",a);
+ 
+double b;
+scanf("%d",&b);
+printf("%d\n",b);
+
+double c;
+scanf("%d",&c);
+printf("%d\n",c);
+  
+double wynik = (a*b) - (c*a) - (b*c)
 print("%d\n" ,wynik);
 }
 
