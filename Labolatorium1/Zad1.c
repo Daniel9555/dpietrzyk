@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Zad1//
+//Zad1
 int main() {
 int a;
 printf("%f\n",a);
@@ -18,7 +18,7 @@ double wynik = (a*b) - (b/c)
 printf("%d\n" ,wynik);
 }
 
-//Zad2//
+//Zad2
 int main() {
 int a;
 printf("%f\n",a);
@@ -36,7 +36,7 @@ double wynik = (a*b) - (b%c)
 printf("%d\n" ,wynik);
 }
 
-//Zad3//
+//Zad3
 int main() {
 int a;
 printf("%f\n",a);
@@ -54,7 +54,7 @@ double wynik = (a*b) - (c*a) - (b*c)
 printf("%d\n" ,wynik);
 }
 
-//Zad4//
+//Zad4
 int main() {
   int a;
   printf("%d\n",a);
