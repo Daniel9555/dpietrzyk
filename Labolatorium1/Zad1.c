@@ -3,70 +3,70 @@
 //Zad1//
 int main() {
 int a;
-scanf("%f",&a);
 printf("%f\n",a);
+scanf("%f",&a);
  
 double b;
-scanf("%d",&b);
 printf("%d\n",b);
-
+scanf("%d",&b);
+ 
 double c;
-scanf("%d",&c);
 printf("%d\n",c);
+scanf("%d",&c);
   
 double wynik = (a*b) - (b/c)
-print("%d\n" ,wynik);
+printf("%d\n" ,wynik);
 }
 
 //Zad2//
 int main() {
 int a;
-scanf("%f",&a);
 printf("%f\n",a);
+scanf("%f",&a);
  
 double b;
-scanf("%d",&b);
 printf("%d\n",b);
+scanf("%d",&b);
 
 double c;
-scanf("%d",&c);
 printf("%d\n",c);
+scanf("%d",&c);
   
 double wynik = (a*b) - (b%c)
-print("%d\n" ,wynik);
+printf("%d\n" ,wynik);
 }
 
 //Zad3//
 int main() {
 int a;
-scanf("%f",&a);
 printf("%f\n",a);
+scanf("%f",&a);
  
 double b;
-scanf("%d",&b);
 printf("%d\n",b);
+scanf("%d",&b);
 
 double c;
-scanf("%d",&c);
 printf("%d\n",c);
+scanf("%d",&c);
   
 double wynik = (a*b) - (c*a) - (b*c)
-print("%d\n" ,wynik);
+printf("%d\n" ,wynik);
 }
 
 //Zad4//
 int main() {
   int a;
-  scanf("%d",&a);
   printf("%d\n",a);
+  scanf("%d",&a);
 
   float b;
-  scanf("%f",&b);
   printf("%f\n",b);
+  scanf("%f",&b);
 
   float c;
-  scanf("%f",&c);
   printf("%f\n",c);
+  scanf("%f",&c);
   int a,b,c;
   if ((a>b) && (b>c) && (a>c)) {
   printf("%d, %d, %d\n" ,c,b,a);
