@@ -8,7 +8,7 @@ int main() {
   printf("Podaj druga liczbe calkowita: \n");
    scanf("%d", &b);
    for (int i=a; i<=b; i++) {
-   printf("%d \n" ,i);
+   printf("%d\n" ,i);
 }
  }
 
