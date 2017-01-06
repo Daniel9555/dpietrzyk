@@ -10,10 +10,9 @@ int main() {
    for (int i=a; i<=b; i++) {
    printf("%d\n" ,i);
 }
- }
+ 
 
    //zad 2
-   int main () {
        int c;
        printf("Podaj pierwsza liczbe calkowita \n");
        scanf("%d",&c) ;
@@ -28,7 +27,6 @@ int main() {
    }
 
    //zad 3
-   int main () {
       int x;
       int sum = 0;
       int wantContinue;
@@ -43,10 +41,9 @@ int main() {
           scanf("%d",&wantContinue);
       }
       printf("%d\n",sum);
-      }
+      
 
    //zad 4
-   int main () {
       int a;
       int i;
       int silnia = 1;
