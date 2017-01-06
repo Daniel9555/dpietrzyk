@@ -2,19 +2,19 @@
 
 //Zad1
 int main() {
-int a;
+float a;
 printf("%f\n",a);
 scanf("%f",&a);
  
-double b;
-printf("%d\n",b);
-scanf("%d",&b);
+float b;
+printf("%f\n",b);
+scanf("%f",&b);
  
-double c;
-printf("%d\n",c);
-scanf("%d",&c);
+float c;
+printf("%f\n",c);
+scanf("%f",&c);
   
-double wynik = (a*b) - (b/c)
+float wynik = (a*b) - (b/c)
 printf("%d\n" ,wynik);
 }
 
