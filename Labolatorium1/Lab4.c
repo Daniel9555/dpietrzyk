@@ -24,7 +24,6 @@ int main() {
        suma = suma + a;
    }
        printf("%d",suma);
-   }
 
    //zad 3
       int x;
