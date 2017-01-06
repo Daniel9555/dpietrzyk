@@ -48,10 +48,11 @@ int main() {
    //zad 4
    int main () {
       int a;
+      int i;
       int silnia = 1;
       printf("Podaj liczbe calkowita \n");
       scanf("%d",&a);
-      for(int i = a; i>1; i--) {
+      for(i = a; i>1; i--) {
       silnia *=i;
    }
    printf("%d\n",silnia);
