@@ -40,7 +40,7 @@ void BFS() {
                 {
                     if(Color[graf[V][j]] == 0)
                     {
-                        Color[graf[V][j]]=(Color[V] == 1 ? 2 : 1);//wszyscy sasiedzi sa srugiego koloru
+                        Color[graf[V][j]]=(Color[V] == 1 ? 2 : 1);//wszyscy sasiedzi sa drugiego koloru
                         Q.push(graf[V][j]);
                     }
                 }
